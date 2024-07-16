@@ -1,7 +1,7 @@
 # A free XR APP for x dolls
 
 ## 説明 Usage
-1. アプリ(Android)をダウンロードしてインストールする: [Link](https://drive.google.com/file/d/1sbT4ZYpqJFfpUwOfbHfPKs3Ge3xDbKDp/view?usp=drive_link) (currently only support android).
+1. アプリ(Android)をダウンロードしてインストールする: [Link](https://drive.google.com/file/d/1sbT4ZYpqJFfpUwOfbHfPKs3Ge3xDbKDp/view?usp=drive_link)
 1. Download the app from google drive: [Link](https://drive.google.com/file/d/1sbT4ZYpqJFfpUwOfbHfPKs3Ge3xDbKDp/view?usp=drive_link) (currently only support android).
 <img src="imgs/require.png" alt="drawing"/>
 2. マーカーをプリントアウトし、ラブドールに貼る
