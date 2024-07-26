@@ -3,9 +3,9 @@
 # 説明 Usage
 
 ## STEP 1
-* アプリ(Android)をダウンロードしてインストールする: [Link](https://drive.google.com/file/d/1sbT4ZYpqJFfpUwOfbHfPKs3Ge3xDbKDp/view?usp=drive_link)
-* Download the app from google drive: [Link](https://drive.google.com/file/d/1sbT4ZYpqJFfpUwOfbHfPKs3Ge3xDbKDp/view?usp=drive_link) (currently only support android).
-* 下载并安装APP（目前支持安卓）: [Google drive](https://drive.google.com/file/d/1sbT4ZYpqJFfpUwOfbHfPKs3Ge3xDbKDp/view?usp=drive_link) [百度盘](https://pan.baidu.com/s/1lHJd9ONstHIfjzYVBCyf7g?pwd=h9gb)
+* アプリ(Android)をダウンロードしてインストールする: [Link](https://drive.google.com/file/d/1-PaAzY6FD2ZE4sD4lgSFtJ1UBBcWPvdp/view?usp=drivesdk)
+* Download the app from google drive: [Link](https://drive.google.com/file/d/1-PaAzY6FD2ZE4sD4lgSFtJ1UBBcWPvdp/view?usp=drivesdk) (currently only support android).
+* 下载并安装APP（目前支持安卓）: [Google drive](https://drive.google.com/file/d/1-PaAzY6FD2ZE4sD4lgSFtJ1UBBcWPvdp/view?usp=drivesdk) [百度盘](https://pan.baidu.com/s/1lHJd9ONstHIfjzYVBCyf7g?pwd=h9gb)
 <img src="imgs/require.png" alt="drawing"/>
 
 ## STEP 2
@@ -26,3 +26,11 @@
 * When you return from the UI, there will be a blue border around the view. Just tap the left side of the screen to restore.
 * 从UI返回的时候会有一个蓝色边框出现的bug,只要点一下左边屏幕就好了
 <img src="imgs/bug.png" alt="drawing"/>
+
+
+## Update Log
+
+# v2.0
+* Add motion estimation algorithm for natural interaction.
+* Optimize 3D models' poses
+* Stop sould while not moving.
