@@ -30,7 +30,7 @@
 
 ## Update Log
 
-# v2.0
+### v2.0
 * Add motion estimation algorithm for natural interaction.
 * Optimize 3D models' poses
 * Stop sould while not moving.
