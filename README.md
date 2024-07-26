@@ -5,7 +5,7 @@
 ## STEP 1
 * アプリ(Android)をダウンロードしてインストールする: [Link](https://drive.google.com/file/d/1-PaAzY6FD2ZE4sD4lgSFtJ1UBBcWPvdp/view?usp=drivesdk)
 * Download the app from google drive: [Link](https://drive.google.com/file/d/1-PaAzY6FD2ZE4sD4lgSFtJ1UBBcWPvdp/view?usp=drivesdk) (currently only support android).
-* 下载并安装APP（目前支持安卓）: [Google drive](https://drive.google.com/file/d/1-PaAzY6FD2ZE4sD4lgSFtJ1UBBcWPvdp/view?usp=drivesdk) [百度盘](https://pan.baidu.com/s/1lHJd9ONstHIfjzYVBCyf7g?pwd=h9gb)
+* 下载并安装APP（目前支持安卓）: [Google drive](https://drive.google.com/file/d/1-PaAzY6FD2ZE4sD4lgSFtJ1UBBcWPvdp/view?usp=drivesdk) [百度盘](https://pan.baidu.com/s/1aMkVasILcSmROVJfjY-3bg?pwd=6bwb)
 <img src="imgs/require.png" alt="drawing"/>
 
 ## STEP 2
