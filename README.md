@@ -3,9 +3,9 @@
 # 説明 Usage
 
 ## STEP 1
-* アプリ(Android)をダウンロードしてインストールする: [Link](https://drive.google.com/file/d/1B043D3tOHruy4cFd0Rfb0ptNwHWHCi30/view?usp=drive_link)
-* Download the app from google drive: [Link](https://drive.google.com/file/d/1B043D3tOHruy4cFd0Rfb0ptNwHWHCi30/view?usp=drive_link) (currently only support android).
-* 下载并安装APP（目前支持安卓）: [Google drive](https://drive.google.com/file/d/1B043D3tOHruy4cFd0Rfb0ptNwHWHCi30/view?usp=drive_link) [百度盘](https://pan.baidu.com/s/1UyHQqKJzPBTW1d20NaKZsw?pwd=lhed)
+* アプリ(Android)をダウンロードしてインストールする: [Link](https://drive.google.com/file/d/1782cDwkhTslq8c1pjXJNdurgTyS-XaG_/view?usp=drive_link)
+* Download the app from google drive: [Link](https://drive.google.com/file/d/1782cDwkhTslq8c1pjXJNdurgTyS-XaG_/view?usp=drive_link) (currently only support android).
+* 下载并安装APP（目前支持安卓）: [Google drive](https://drive.google.com/file/d/1782cDwkhTslq8c1pjXJNdurgTyS-XaG_/view?usp=drive_link) [百度盘](https://pan.baidu.com/s/1KA1xx85G-9kdCbNXr3i10A?pwd=aece)
 <img src="imgs/require.png" alt="drawing"/>
 
 ## STEP 2
